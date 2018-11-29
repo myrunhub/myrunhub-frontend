@@ -1,0 +1,230 @@
+
+footer {
+    position: relative;
+    width: 100%;
+    background-color: #0d1119;
+    overflow: hidden;
+  }
+  
+  .closer {
+    position: relative;
+    height: 600px;
+    background-image: url(../../../img/footer.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .closer .closing-claim {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    width: 100%;
+    padding: 0 15px;
+  }
+  
+  .closer .closing-claim h1 {
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 42px;
+  }
+  
+  .closer .closing-claim p {
+    max-width: 475px;
+    margin: 0 auto;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  .footer-lockup {
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 135px;
+  }
+  
+  .footer-lockup .red-angle {
+    position: relative;
+    left: -60%;
+    -webkit-transform: skewX(88deg);
+            transform: skewX(88deg);
+    width: 100%;
+    height: 30px;
+    margin-bottom: 50px;
+    background-color: #fd634e;
+    overflow: hidden;
+  }
+  
+  @media (max-width: 767px) {
+    .footer-lockup .red-angle {
+      display: none;
+    }
+  }
+  
+  .footer-lockup h3 {
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  
+  .footer-lockup p {
+    color: #8297a7;
+  }
+  
+  .footer-lockup .social-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 265px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  
+  @media (max-width: 991px) {
+    .footer-lockup .social-icons {
+      margin-bottom: 20px;
+    }
+  }
+  
+  .footer-lockup .social-icons a {
+    color: #fff;
+  }
+  
+  .footer-lockup .social-icons i {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    transition: background-color .2s ease-in-out;
+  }
+  
+  .footer-lockup .social-icons .icon-facebook {
+    background-color: #2e3192;
+  }
+  
+  .footer-lockup .social-icons .icon-facebook:hover {
+    background-color: #3a3eb9;
+  }
+  
+  .footer-lockup .social-icons .icon-twitter {
+    background-color: #00aeef;
+  }
+  
+  .footer-lockup .social-icons .icon-twitter:hover {
+    background-color: #23c3ff;
+  }
+  
+  .footer-lockup .social-icons .icon-youtube-play {
+    background-color: #ed3123;
+  }
+  
+  .footer-lockup .social-icons .icon-youtube-play:hover {
+    background-color: #f15d52;
+  }
+  
+  .footer-lockup .social-icons .icon-linkedin {
+    background-color: #171a8f;
+  }
+  
+  .footer-lockup .social-icons .icon-linkedin:hover {
+    background-color: #1e22bb;
+  }
+  
+  .footer-lockup form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .footer-lockup form input {
+    height: 50px;
+    margin-right: 5px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 3px;
+    color: #8297a7;
+  }
+  
+  .footer-lockup form input:focus {
+    outline: none;
+  }
+  
+  .footer-lockup form input::-webkit-input-placeholder {
+    color: #8297a7;
+  }
+  
+  .footer-lockup form input:-ms-input-placeholder {
+    color: #8297a7;
+  }
+  
+  .footer-lockup form input::placeholder {
+    color: #8297a7;
+  }
+  
+  .footer-lockup form input[type="email"] {
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+  }
+  
+  .footer-lockup form .newsletter-btn {
+    margin-right: 0;
+    padding: 0 30px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 50px;
+    background-color: #a2ca28;
+    border: none;
+    border-radius: 3px;
+    transition: background-color .2s ease-in-out;
+  }
+  
+  .footer-lockup form .newsletter-btn i {
+    position: relative;
+    top: 2px;
+    left: 7px;
+    display: inline-block;
+  }
+  
+  .footer-lockup form .newsletter-btn:hover {
+    background-color: #afd735;
+  }
+  
+  @media (max-width: 767px) {
+    .footer-lockup form {
+      display: block;
+    }
+    .footer-lockup form input {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .footer-lockup form .newsletter-btn {
+      width: 100%;
+    }
+  }
+  
+  .bg-angled-left, .bg-angled-right {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: skewY(-3.5deg);
+            transform: skewY(-3.5deg);
+    -webkit-transform-origin: left;
+            transform-origin: left;
+    background-color: #0d1119;
+  }
+  
+  .bg-angled-right {
+    -webkit-transform: skewY(3deg);
+            transform: skewY(3deg);
+    -webkit-transform-origin: right;
+            transform-origin: right;
+  }
+  
