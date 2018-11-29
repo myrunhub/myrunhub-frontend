@@ -1,0 +1,250 @@
+
+header {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../img/hero.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+  }
+  
+  .fixed-navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    z-index: 11;
+    transition: all .2s ease-in-out;
+  }
+  
+  .fixed-navbar.nav-fix {
+    background-color: rgba(13, 7, 25, 0.9);
+    height: 80px;
+  }
+  
+  .fixed-navbar.nav-open {
+    left: -180px;
+  }
+  
+  @media (max-width: 1024px) {
+    .fixed-navbar {
+      height: 80px;
+    }
+  }
+  
+  .navbar-lockup {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 30px;
+    line-height: 120px;
+    transition: all .2s ease-in-out;
+  }
+  
+  .navbar-lockup.nav-fix {
+    line-height: 80px;
+  }
+  
+  .navbar-lockup .logo {
+    float: left;
+  }
+  
+  .navbar-lockup .logo img {
+    width: 100px;
+  }
+  
+  .navbar-lockup .nav {
+    float: right;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .navbar-lockup .nav li {
+    display: inline-block;
+    margin-right: 65px;
+  }
+  
+  .navbar-lockup .nav li:last-child {
+    margin-right: 0;
+  }
+  
+  .navbar-lockup .nav li a {
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+    transition: color .2s ease-in-out;
+  }
+  
+  .navbar-lockup .nav li a:hover {
+    color: #c8e474;
+    text-decoration: none;
+  }
+  
+
+.claim-lockup {
+    position: relative;
+    max-width: 1180px;
+    height: 100%;
+    margin: 0 auto;
+  }
+  
+  .claim-lockup .claim {
+    position: absolute;
+    bottom: 150px;
+    left: 115px;
+  }
+  
+  .claim-lockup .claim .headline {
+    margin-bottom: 0;
+    font-size: 40px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  .claim-lockup .claim .headline span {
+    color: #a2ca28;
+  }
+  
+  .claim-lockup .claim .kicker {
+    position: relative;
+    left: 158px;
+    margin-top: -10px;
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+  }
+  
+  .claim-lockup .claim .kicker span {
+    color: #fd634e;
+  }
+  
+  @media (max-width: 670px) {
+    .claim-lockup .claim {
+      left: 30px;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .claim-lockup .claim {
+      left: 30px;
+    }
+    .claim-lockup .claim .headline {
+      font-size: 32px;
+    }
+    .claim-lockup .claim .kicker {
+      left: 128px;
+    }
+  }
+  
+  @media (max-height: 414px) {
+    .claim-lockup .claim {
+      bottom: 85px;
+    }
+  }
+  
+  .angled-overlay {
+    position: absolute;
+    bottom: 0;
+    -webkit-transform: skewY(-2deg);
+            transform: skewY(-2deg);
+    -webkit-transform-origin: right;
+            transform-origin: right;
+    width: 100%;
+    height: 100px;
+    background-color: #fd634e;
+    opacity: .3;
+  }
+  
+  .slide-out-nav {
+    position: fixed;
+    top: 0;
+    right: -180px;
+    bottom: 0;
+    width: 180px;
+    background-color: #0d1119;
+    overflow: hidden;
+    z-index: 11;
+    transition: all .2s ease-in-out;
+  }
+  
+  .slide-out-nav.nav-open {
+    right: 0;
+  }
+  
+  .slide-out-nav .mobile-nav {
+    margin: 50px 20px 0 0;
+    padding-left: 0;
+    text-align: right;
+    list-style: none;
+  }
+  
+  .slide-out-nav .mobile-nav li {
+    margin-bottom: 15px;
+  }
+  
+  .slide-out-nav .mobile-nav li a {
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+    transition: color .2s ease-in-out;
+  }
+  
+  .slide-out-nav .mobile-nav li a:hover {
+    color: #c8e474;
+    text-decoration: none;
+  }
+  
+  .slide-out-nav .mobile-nav-slice {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    -webkit-transform-origin: bottom right;
+            transform-origin: bottom right;
+    width: 100%;
+    height: 125%;
+    background-color: #fff;
+    opacity: .05;
+  }
+  
+  .mobile-nav-toggle {
+    display: none;
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    z-index: 11;
+    transition: all .2s ease-in-out;
+  }
+  
+  .mobile-nav-toggle.nav-open {
+    right: 210px;
+  }
+  
+  .mobile-nav-toggle span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    margin-bottom: 8px;
+    background-color: #fff;
+  }
+  
+  @media (max-width: 1024px) {
+    .navbar-lockup .logo {
+      line-height: 80px;
+    }
+    .navbar-lockup .nav {
+      display: none;
+    }
+    .mobile-nav-toggle {
+      display: block;
+    }
+  }
