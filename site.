@@ -1,0 +1,1022 @@
+
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- sturgeon-cow-my7l -->
+<base href="">
+<meta charset="utf-8" />
+<title>GitBetter</title>
+<link rel="canonical" href="https://www.gitbetter.io/"/>
+<meta property="og:site_name" content="GitBetter"/>
+<meta property="og:title" content="Home"/>
+<meta property="og:url" content="https://www.gitbetter.io/"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Home"/>
+<meta itemprop="url" content="https://www.gitbetter.io/"/>
+<meta name="twitter:title" content="Home"/>
+<meta name="twitter:url" content="https://www.gitbetter.io/"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<script type="text/javascript" src="//use.typekit.net/ik/oVMj9i_eo2MZgclCwnmyh0HJPNiq-syIvSm0dFZALltfeG92fFHN4UJLFRbh52jhWDmKFDMDwAjhjDJu5eJXFes8whscZ26tZy7QMPG0SasuSci8dhtljhNaOAuoFh30SaBujW48Sagyjh90jhNlOeiTie48iYs8SKoTdkUCdhFydeyzSabCSasuSci8dhtljhNaOAuoFh30SaBujW48Sagyjh90jhNlOYiaiko1-WsKZWsXZWJ0-AvCiaiaO1FXiW41ZAN0OAFzikulpQiCO1FUiABkZWF3jAF8OcFzdPJWjAUXZW40jWs8OAizieyTjku0dkXkOAbK21FzZc8yOWgkdkuDdhZXJ68DdhZTjPu3Scv7fbRW9gMMeMb6MKGHf5ExMsMgeMb6MKGHf5-xMsMfeMI6MKGHfFhxMsMfeMJ6MKGHfFrxMsMfeMw6MKGHf55xMsMfeMb6MKGHf5exMsMfeM96MKGHf5AxMsMfeMj6MKGHfF0xMsMfeMS6MKGHf5PxMsMfeMt6MKGHfFcxMsMfeMq6MKGHfFkxMsMfegI6MTMgno_wa39.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-7c4f8e48a669820f93a2-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/common-7c4f8e48a669820f93a2-min.en-US.js" ></script><script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/performance-24b4b5fbf962af7f149b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/announcement-bar-64b2ff03858a7fd1768a-min.en-US.js"},"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-9e2c6936cec591622cdf-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/blog-collection-list-51ef1c805a133507029e-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-61a327b8527a1fbf9b1fe569505ed5ae-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-4d62ad3d991aad8ce9d0-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-711d3e492ec4d7b8e82f-min.en-US.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-bfcda0f17dd987db5206c1d15e83fd19-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-228dbfe2426cfc05a6f1-min.en-US.js"},"squarespace-commerce-cart":{"js":"//static.squarespace.com/universal/scripts-compressed/commerce-cart-179d8432e3eb54024bde-min.en-US.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-b548cc83dd846f17dd31de0760e67bc5-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-71474a7dc6f15f3d52cd-min.en-US.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-61a327b8527a1fbf9b1fe569505ed5ae-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-0b4fd84d42cff81d7768-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//static.squarespace.com/universal/scripts-compressed/form-rendering-utils-cb3bb5f4ff46967c90b5-min.en-US.js"},"squarespace-forms":{"css":"//static.squarespace.com/universal/styles-compressed/forms-ac7917c174031c937e3df4b3a2005b34-min.css","js":"//static.squarespace.com/universal/scripts-compressed/forms-58209b898127b95e74ac-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-d32054e27ee9bf773244-min.en-US.js"},"squarespace-image-zoom":{"css":"//static.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/image-zoom-8acb84bf8a53442b02e4-min.en-US.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-589af149899d1def2c34-min.en-US.js"},"squarespace-popup-overlay":{"css":"//static.squarespace.com/universal/styles-compressed/popup-overlay-7b48efeab9b323dfdb524a256cf61595-min.css","js":"//static.squarespace.com/universal/scripts-compressed/popup-overlay-07c25cf15a5b6448e90c-min.en-US.js"},"squarespace-product-quick-view":{"css":"//static.squarespace.com/universal/styles-compressed/product-quick-view-bc8694b75a40e4bd969b662b80ebafb5-min.css","js":"//static.squarespace.com/universal/scripts-compressed/product-quick-view-f31948167e4c51415b2f-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-7e5b81071aa96d9d028a-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-f6f248dd18d9f85a7119-min.en-US.js"},"squarespace-search-page":{"css":"//static.squarespace.com/universal/styles-compressed/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"//static.squarespace.com/universal/scripts-compressed/search-page-34c31965737a3f2b9245-min.en-US.js"},"squarespace-search-preview":{"js":"//static.squarespace.com/universal/scripts-compressed/search-preview-9fb32137e67b17f86d56-min.en-US.js"},"squarespace-share-buttons":{"js":"//static.squarespace.com/universal/scripts-compressed/share-buttons-d8acc84ac046b3f1ef4b-min.en-US.js"},"squarespace-simple-liking":{"css":"//static.squarespace.com/universal/styles-compressed/simple-liking-310d0b18e112f708f91339b11fd55714-min.css","js":"//static.squarespace.com/universal/scripts-compressed/simple-liking-84b54f0472af8cf9fda5-min.en-US.js"},"squarespace-social-buttons":{"css":"//static.squarespace.com/universal/styles-compressed/social-buttons-26106f808f7e9c739a7f862a408ed039-min.css","js":"//static.squarespace.com/universal/scripts-compressed/social-buttons-21a0c1a6603fc1e24d53-min.en-US.js"},"squarespace-tourdates":{"css":"//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/tourdates-17f590a3e767943579d6-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//static.squarespace.com/universal/styles-compressed/website-overlays-manager-0db5c7c60d1d79fe731ced48ff0cc7c0-min.css","js":"//static.squarespace.com/universal/scripts-compressed/website-overlays-manager-0aa7ea8aeb8b0dcb0609-min.en-US.js"}},"pageType":1,"website":{"id":"5b7031f6c258b44de3dfd88f","identifier":"sturgeon-cow-my7l","websiteType":1,"contentModifiedOn":1541444261783,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"GitBetter","siteDescription":"<p>GitBetter - a developer intelligence tool that relies on fact as a way to express who you are and where you want to go.</p>","location":{"addressLine1":"","addressLine2":"","addressCountry":""},"shareButtonOptions":{"1":true,"2":true,"7":true},"authenticUrl":"https://www.gitbetter.io","internalUrl":"https://sturgeon-cow-my7l.squarespace.com","baseUrl":"https://www.gitbetter.io","primaryDomain":"www.gitbetter.io","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":4,"userId":"860967888227905536","userName":"gitbetternow","screenname":"Gitbetter","addedOn":1534645259669,"profileUrl":"https://twitter.com/gitbetternow","iconUrl":"http://pbs.twimg.com/profile_images/862258814707355648/vWhUeqE3_normal.jpg","collectionId":"5b78d40bd274cb770c8104ba","iconEnabled":true,"serviceName":"twitter"},{"serviceId":2,"userId":"10213240566621079","screenname":"GitBetter","addedOn":1534646254398,"profileUrl":"https://www.facebook.com/gitbetter/","iconUrl":"http://graph.facebook.com/10213240566621079/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":14,"userId":"GHVMB0atQ2","userName":"speterson73","screenname":"Steve Peterson","addedOn":1534646439138,"profileUrl":"https://www.linkedin.com/company/gitbetter/","iconUrl":"https://media.licdn.com/dms/image/C4E03AQFurycs3yOGtg/profile-displayphoto-shrink_100_100/0?e=1540425600&v=beta&t=U1gP5M9q2UD5AmwwSyyw6vLPo5Rdoi833IJFqZYTCoY","iconEnabled":true,"serviceName":"linkedin"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"0e675e84c967092269eb58301b1ab646a58907397e1ccc26c598dd9e078139b4","showOwnerLogin":false},"websiteSettings":{"id":"5b7031f6c258b44de3dfd892","websiteId":"5b7031f6c258b44de3dfd88f","type":"Business","subjects":[],"country":"US","state":"NJ","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"paymentSettings":{},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"multipleQuantityAllowedForServices":true,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"contactLocation":{"addressLine1":"46 Robbins Avenue","addressLine2":"Berkeley Heights, NJ, 07922","addressCountry":"United States"},"businessName":"GitBetter.io","sameAsRetailLocation":false,"businessId":"","isLive":false},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":""},"websiteCloneable":false,"collection":{"title":"Home","id":"57d6b75af5e23170b59e2bbc","fullUrl":"/","type":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"3","tweak-blog-list-item-image-aspect-ratio-grid":"1:1 Square","tweak-blog-list-item-image-aspect-ratio-stacked":"1:1 Square","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"40px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Stacked","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Packed","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"None","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"false","tweak-product-item-image-zoom-factor":"2","tweak-product-list-item-hover-behavior":"Fade","tweak-product-list-items-per-row":"3","tweak-site-ajax-loading-enable":"false","tweak-site-border-show":"false","tweak-site-border-width":"50px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","pageFeatures":[1,2,4],"googleMapsStaticApiKey":"AIzaSyBQdch5IcgcQaKNG76sbMQv1MEBEKLeQ-8","impersonatedSession":false,"demoCollections":[{"collectionId":"57d6b75af5e23170b59e2bbc","deleted":false},{"collectionId":"57d6c0175016e1d8f1aaa914","deleted":false},{"collectionId":"57d6d0aa8419c20653360a00","deleted":false},{"collectionId":"57d6d245d482e950270103fc","deleted":false},{"collectionId":"57d95b93e4fcb53801d1716c","deleted":false},{"collectionId":"57d9727a414fb5fe329c3097","deleted":false},{"collectionId":"57d9728a414fb5fe329c319a","deleted":false},{"collectionId":"57d98eb929687f9453543696","deleted":false},{"collectionId":"57d98ed2f7e0abbf1b8e22c5","deleted":false},{"collectionId":"57daa58d2e69cf3412467002","deleted":false},{"collectionId":"57daaa716a49631b79579fef","deleted":false},{"collectionId":"57db15b3b8a79b34cba2f4d4","deleted":false},{"collectionId":"57db15d3ebbd1a047885c7f1","deleted":false},{"collectionId":"57ec34018419c2ac2bea876b","deleted":false},{"collectionId":"57ec341420099e1bdc350110","deleted":false},{"collectionId":"57ec342c8419c2ac2bea8973","deleted":false},{"collectionId":"57ec3438414fb5bf1aa61c60","deleted":false},{"collectionId":"57ec34518419c2ac2bea8b2e","deleted":false},{"collectionId":"57ec34e5f7e0abf8c0522dd6","deleted":false},{"collectionId":"57ec3505ff7c50e563f8cd8b","deleted":false},{"collectionId":"57ec35319de4bba9671f890c","deleted":false},{"collectionId":"57ec3548ff7c50e563f8d0d8","deleted":false},{"collectionId":"57ec3561ff7c50e563f8d228","deleted":false},{"collectionId":"57ec360cf5e231ada41b4cf9","deleted":false},{"collectionId":"57ec361cd2b8573754030510","deleted":false},{"collectionId":"57ec3634f5e231ada41b4ef6","deleted":false},{"collectionId":"57ec3647d2b8573754030736","deleted":false},{"collectionId":"57ec3664d2b85737540308c2","deleted":false}],"isFacebookTab":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.gitbetter.io/home-feed?format=RSS" />
+<script type="application/ld+json">{"url":"https://www.gitbetter.io","name":"GitBetter","description":"<p>GitBetter - a developer intelligence tool that relies on fact as a way to express who you are and where you want to go.</p>","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"GitBetter.io","address":"","email":"","telephone":"","@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"46 Robbins Avenue\nBerkeley Heights, NJ, 07922\nUnited States","name":"GitBetter.io","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b7031f6c258b44de3dfd88f/0/55f0aac0e4b0f0a5b7e0b22e/5b7031f6c258b44de3dfd8a6/318-05142015/1537236654958/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-57d6b75af5e23170b59e2bbc" class="tweak-social-icons-style-solid tweak-social-icons-shape-square tweak-site-width-option-full-width tweak-icon-weight-light   tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-bottom-left ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-bottom-right ancillary-header-secondary-nav-position-bottom-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-top-right ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-fade tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-spotlight tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-underlined tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text tweak-overlay-parallax-enabled  tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-none  tweak-index-page-scroll-indicator-none tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-packed tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-fade tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-top-left tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-center ancillary-mobile-bar-menu-icon-position-top-left tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-bottom-center tweak-mobile-bar-cart-style-cart ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square   tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-center  tweak-blog-meta-primary-tags tweak-blog-meta-secondary-date tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-11-square tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-below-content tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-below-title tweak-blog-item-share-position-below-content tweak-blog-item-pagination-link-icon-show tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-fade tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-top tweak-product-list-filter-alignment-center tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-item-gallery-thumbnail-alignment-center tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-large tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click  tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-medium tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show    tweak-share-buttons-standard-background-color native-currency-code-usd collection-57d6b75af5e23170b59e2bbc collection-type-index collection-layout-default homepage view-list mobile-style-available sqs-has-custom-cart has-site-title has-social has-parallax-images has-parallax-images has-parallax-images has-parallax-images enable-load-effects has-primary-nav has-footer-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            GitBetter
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          <a href="/blog/" class="Mobile-overlay-nav-item">
+            Blog
+          </a>
+        
+      
+    
+    
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="about">
+            <span class="Mobile-overlay-nav-item--folder-label">About</span>
+          </button>
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/contact-feed/" class="Mobile-overlay-nav-item">
+              Contact
+            </a>
+          
+        
+      
+    
+    
+  
+    
+    
+      <a href="https://contributors.gitbetter.io" class="Mobile-overlay-nav-item">
+        Product
+      </a>
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="about">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="about">
+        <span class="Mobile-overlay-folder-item--toggle-label">Back</span>
+      </button>
+      
+        
+          
+            <a href="/about-feed" class="Mobile-overlay-folder-item">
+              About Us
+            </a>
+          
+        
+      
+        
+          <a href="/about-gitbetter/" class="Mobile-overlay-folder-item">
+            How to Use GitBetter
+          </a>
+        
+      
+    </div>
+  
+
+  
+
+  
+
+        
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5b7032a1032be42d14075f4e"></div>
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5b78c6d370a6adf88733820a"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5b78bca24ae2377ea9185925"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5b78c2c521c67c1954100319"></div>
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <header class="Header Header--top">
+        <div class="Header-inner Header-inner--top" data-nc-group="top">
+          <div data-nc-container="top-left">
+
+            <div class="Header-search" data-nc-element="search">
+              <form class="Header-search-form" action="/search" method="get">
+                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                  </svg>
+                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+          <div data-nc-container="top-center">
+            
+            
+              <div class="Header-social" data-nc-element="social">
+                
+  <nav class="SocialLinks" data-content-field="connected-accounts">
+    <div class="SocialLinks-inner">
+    <a href="https://twitter.com/gitbetternow" target="_blank" class="SocialLinks-link twitter" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#twitter-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#twitter-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://www.facebook.com/gitbetter/" target="_blank" class="SocialLinks-link facebook" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#facebook-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#facebook-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://www.linkedin.com/company/gitbetter/" target="_blank" class="SocialLinks-link linkedin" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#linkedin-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#linkedin-mask"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+  </nav>
+
+              </div>
+            
+          </div>
+          <div data-nc-container="top-right">
+
+            
+
+          </div>
+        </div>
+      </header>
+
+      <div class="Site-inner Site-inner--index" data-controller="HeaderOverlay">
+
+        <header class="Header Header--bottom Header--overlay">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/blog/" class="Header-nav-item" data-test="template-nav">Blog</a><span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/about/" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">About</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            
+              <a href="/about-feed" class="Header-nav-folder-item">About Us</a>
+            
+          
+        
+          
+            <a href="/about-gitbetter/" class="Header-nav-folder-item" data-test="template-nav">How to Use GitBetter</a>
+          
+        
+      </span>
+    </span><a href="/contact-feed/" class="Header-nav-item" data-test="template-nav">Contact</a><a href="https://contributors.gitbetter.io" class="Header-nav-item">Product</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    GitBetter
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="57d6b75af5e23170b59e2bbc" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="hero" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5b7032a1032be42d14075f4e" data-parallax-id="5b7032a1032be42d14075f4e" data-edit-main-image="Background">
+        
+          <div class="Index-page-scroll-indicator hidden" data-controller="ScrollIndicator">
+            <div class="Index-page-scroll-indicator-text">Scroll</div>
+            <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down" viewBox="0 0 48 23">
+              <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+            </svg>
+            <div class="Index-page-scroll-indicator-line"></div>
+          </div>
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1541444229739" id="page-5b7032a1032be42d14075f4e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="3.125" data-block-type="21" id="block-yui_3_17_2_6_1473689911562_7449"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57d6b785197aea8ab32028d6"><div class="sqs-block-content"><h1 style="text-align: center; white-space: pre-wrap;">Focus on What is Important</h1><h1 style="text-align: center; white-space: pre-wrap;">&nbsp;</h1></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.06180469715698393" data-block-type="21" id="block-yui_3_17_2_64_1473691550784_17995"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_6_1473689911562_5536"><div class="sqs-block-content">
+<div class="sqs-block-button-container--center" data-alignment="center" data-button-size="large">
+	<a href="/about-feed" class="sqs-block-button-element--large sqs-block-button-element" >Learn More</a>
+</div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="1.1206328279499012" data-block-type="21" id="block-yui_3_17_2_61_1473691550784_8535"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c7354fa51a76f35c3149/1534641974700/GitBetter1.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c7354fa51a76f35c3149/1534641974700/GitBetter1.jpg" data-image-dimensions="810x774" data-image-focal-point="0.5,0.5" alt="GitBetter1.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="announcement-bar" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5b78c6d370a6adf88733820a" data-parallax-id="5b78c6d370a6adf88733820a" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c40021c67c1954100cb6/1534641178043/GitBetter2.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c40021c67c1954100cb6/1534641178043/GitBetter2.jpg" data-image-dimensions="804x782" data-image-focal-point="0.5,0.5" alt="GitBetter2.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="new-page" class="Index-page"  data-collection-id="5b78c7e9352f53632c8d298b" data-parallax-id="5b78c7e9352f53632c8d298b" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1534644347179" id="page-5b78c7e9352f53632c8d298b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4067f3dd80ea2105b9b8"><div class="sqs-block-content"><h1 class="text-align-center">What is GitBetter?</h1><p class="text-align-center">GitBetter provides easy, visual representations of your work, all aggregated from your Git repositories.</p><p class="text-align-center">Imagine all your history consolidated into easy-to-interpret optics,&nbsp;ready to help you determine future paths.</p><p class="text-align-center">A few examples of our optics:</p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-9793e09ddea334b74719"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:810.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="&lt;p&gt;The Optic&lt;/p&gt;" >
+              <noscript><img src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c8e56d2a7356c6fbc7e7/1534642413171/GitBetter1.jpg"  alt=" The Optic "  /></noscript><img class="thumb-image" alt=" The Optic " data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c8e56d2a7356c6fbc7e7/1534642413171/GitBetter1.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c8e56d2a7356c6fbc7e7/1534642413171/GitBetter1.jpg" data-image-dimensions="810x774" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b78c8e56d2a7356c6fbc7e7" data-type="image" />
+            </div>
+          
+
+          
+          <div class="image-caption-wrapper">
+            <div class="image-caption"><p>The Optic</p></div>
+          </div>
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a63098e08414968c0b5f"><div class="sqs-block-content"><h3>What is an Optic?</h3><p>The optic is core to GitBetter, a lens into unaltered, aggregated data, visualized for your analysis.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-06e694ab18d58345ca66"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:804.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="&lt;p&gt;Timeline&lt;/p&gt;" >
+              <noscript><img src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78ca50562fa7c4f8dc3b34/1534642771856/GitBetter2.jpg"  alt=" Timeline "  /></noscript><img class="thumb-image" alt=" Timeline " data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78ca50562fa7c4f8dc3b34/1534642771856/GitBetter2.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78ca50562fa7c4f8dc3b34/1534642771856/GitBetter2.jpg" data-image-dimensions="804x782" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b78ca50562fa7c4f8dc3b34" data-type="image" />
+            </div>
+          
+
+          
+          <div class="image-caption-wrapper">
+            <div class="image-caption"><p>Timeline</p></div>
+          </div>
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-465fc0e7dad8c424a530"><div class="sqs-block-content"><h3>What is a timeline?</h3><p>With the Timeline Optic, visualize day-to-day project activity and observe the trends and evolution of your project over time.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-17dd1fb48806f3aa2e43"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:872.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="&lt;p&gt;Leaderboard&lt;/p&gt;" >
+              <noscript><img src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78caecc2241b4f57b2a626/1534642925687/GitBetter3.jpg"  alt=" Leaderboard "  /></noscript><img class="thumb-image" alt=" Leaderboard " data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78caecc2241b4f57b2a626/1534642925687/GitBetter3.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78caecc2241b4f57b2a626/1534642925687/GitBetter3.jpg" data-image-dimensions="872x810" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b78caecc2241b4f57b2a626" data-type="image" />
+            </div>
+          
+
+          
+          <div class="image-caption-wrapper">
+            <div class="image-caption"><p>Leaderboard</p></div>
+          </div>
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-28427721de09bb198f36"><div class="sqs-block-content"><h3>What is a leaderboard?</h3><p>Using the Leaderboard Optic, see which developers are the most engaged and active through the charting of commits, activity, lines of code.</p></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="gallery" class="Index-gallery" data-controller="IndexGallery" data-collection-id="5b78bca24ae2377ea9185925">
+        <div class="Index-gallery-wrapper">
+          <button class="Index-gallery-control Index-gallery-control--left">
+            <svg class="Icon Icon--caretLarge--left" viewBox="0 0 23 48">
+              <use xlink:href="/assets/ui-icons.svg#caret-left-icon--large"></use>
+            </svg>
+            <svg class="Icon Icon--caretSmall--left" viewBox="0 0 9 16">
+              <use xlink:href="/assets/ui-icons.svg#caret-left-icon--small"></use>
+            </svg>
+          </button>
+          <button class="Index-gallery-control Index-gallery-control--right">
+            <svg class="Icon Icon--caretLarge--right" viewBox="0 0 23 48">
+              <use xlink:href="/assets/ui-icons.svg#caret-right-icon--large"></use>
+            </svg>
+            <svg class="Icon Icon--caretSmall--left" viewBox="0 0 9 16">
+              <use xlink:href="/assets/ui-icons.svg#caret-right-icon--small"></use>
+            </svg>
+          </button>
+          
+          
+        </div>
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="new-page-1" class="Index-page"  data-collection-id="5b78cb978a922da69246ebfc" data-parallax-id="5b78cb978a922da69246ebfc" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1534643631977" id="page-5b78cb978a922da69246ebfc"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-303fe1a0fee33330838b"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:646.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="&lt;p&gt;Changes&lt;/p&gt;" >
+              <noscript><img src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78cc7988251b5c021b744c/1534643323532/GitBetter5.jpg"  alt=" Changes "  /></noscript><img class="thumb-image" alt=" Changes " data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78cc7988251b5c021b744c/1534643323532/GitBetter5.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78cc7988251b5c021b744c/1534643323532/GitBetter5.jpg" data-image-dimensions="646x824" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b78cc7988251b5c021b744c" data-type="image" />
+            </div>
+          
+
+          
+          <div class="image-caption-wrapper">
+            <div class="image-caption"><p>Changes</p></div>
+          </div>
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-947057f9811065856705"><div class="sqs-block-content"><h3>What are changes?</h3><p>With the Changes Optic, you see the files that are modified over the lifecycle of projects, tracking the number of changes over time.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-93d984f5435732aa839b"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:856.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="&lt;p&gt;Developer DNA&lt;/p&gt;" >
+              <noscript><img src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78ccd688251b5c021b7754/1534643415634/GitBetter6.jpg"  alt=" Developer DNA "  /></noscript><img class="thumb-image" alt=" Developer DNA " data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78ccd688251b5c021b7754/1534643415634/GitBetter6.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78ccd688251b5c021b7754/1534643415634/GitBetter6.jpg" data-image-dimensions="856x818" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b78ccd688251b5c021b7754" data-type="image" />
+            </div>
+          
+
+          
+          <div class="image-caption-wrapper">
+            <div class="image-caption"><p>Developer DNA</p></div>
+          </div>
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ded78dd27dbdd7a0724c"><div class="sqs-block-content"><h3>What is DNA?</h3><p>The most important Optic for the coder - get a view into a developer or project's technology DNA to understand how types of files make up composition. Where you've been, where you are now... to determine how to get to where you want to be.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-863d457aaf62718c8551"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none">
+      
+        <div class="intrinsic" style="max-width:522.0px;">
+          
+            <div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="&lt;p&gt;Acoustics&lt;/p&gt;" >
+              <noscript><img src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78cd36b8a0455bb1ec2495/1534643512172/GitBetter4.jpg"  alt=" Acoustics "  /></noscript><img class="thumb-image" alt=" Acoustics " data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78cd36b8a0455bb1ec2495/1534643512172/GitBetter4.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78cd36b8a0455bb1ec2495/1534643512172/GitBetter4.jpg" data-image-dimensions="522x480" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b78cd36b8a0455bb1ec2495" data-type="image" />
+            </div>
+          
+
+          
+          <div class="image-caption-wrapper">
+            <div class="image-caption"><p>Acoustics</p></div>
+          </div>
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f0c17c6e88a4f00eb6a3"><div class="sqs-block-content"><h3>What is an acoustic?</h3><p>Start and end your day with GitBetter by accessing your Acoustics detail through the MyGitBetter Alexa skill. Your detail, when you need it.</p></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="join-our-team" class="Index-page"  data-collection-id="5b78d19f89858374395e8705" data-parallax-id="5b78d19f89858374395e8705" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1536779754738" id="page-5b78d19f89858374395e8705"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_26_1473691550784_9502"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_13_1473689911562_13673"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57d6bd4cb8a79bdc9b6d20ff"><div class="sqs-block-content"><h1 style="text-align: center; white-space: pre-wrap;">Join Our Beta</h1></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_13_1473689911562_14891"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_13_1473689911562_8485"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_13_1473689911562_9794"><div class="sqs-block-content"><p style="text-align: center; white-space: pre-wrap;">We need you to tell us how this helps you as a developer. Join the beta and help us structure the future of GitBetter.</p></div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-abce34e85ae3b6c64cbe"><div class="sqs-block-content">
+
+
+
+<div class="form-wrapper" >
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://sturgeon-cow-my7l.squarespace.com" method="POST" onsubmit="
+      return (function(form) {
+        Y.use('squarespace-form-submit', 'node', function(Y){
+          (new Y.Squarespace.FormSubmit({
+            formNode: Y.Node(form)
+          })).submit('5b78d19f89858374395e8706', '5b78d19f89858374395e8705', 'page-5b78d19f89858374395e8705');
+        });
+        return false;
+      })(this)" data-form-id="5b78d19f89858374395e8706">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_13_1473689911562_21216" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_13_1473689911562_21217" class="form-item field email required">
+                <label class="title" for="email-yui_3_17_2_13_1473689911562_21217-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_17_2_13_1473689911562_21217-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_13_1473689911562_21219" class="form-item field textarea required">
+                <label class="title" for="textarea-yui_3_17_2_13_1473689911562_21219-field">Message <span class="required">*</span></label>
+                <div class="description">Tell us something about yourself.</div>
+                <textarea class="field-element " id="textarea-yui_3_17_2_13_1473689911562_21219-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-left">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_13_1473689911562_11535"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_26_1473691550784_10145"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="divider-image" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5b78c2c521c67c1954100319" data-parallax-id="5b78c2c521c67c1954100319" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1473696266452" id="page-5b78c2c521c67c1954100319"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="17.962003454231432" data-block-type="21" id="block-yui_3_17_2_9_1473691550784_5549"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c2e02b6a28a6620347e3/1534640866293/GitBetter3.jpg" data-image="https://static1.squarespace.com/static/5b7031f6c258b44de3dfd88f/t/5b78c2e02b6a28a6620347e3/1534640866293/GitBetter3.jpg" data-image-dimensions="872x810" data-image-focal-point="0.5,0.5" alt="GitBetter3.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#hero" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Hero</span></div>
+          </a>
+        
+          <a href="#announcement-bar" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Announcement Bar</span></div>
+          </a>
+        
+          <a href="#new-page" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>New Page</span></div>
+          </a>
+        
+          <a href="#gallery" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Gallery</span></div>
+          </a>
+        
+          <a href="#new-page-1" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>New Page</span></div>
+          </a>
+        
+          <a href="#join-our-team" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Join Our Team</span></div>
+          </a>
+        
+          <a href="#divider-image" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Divider Image</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container empty" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1534645306084" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+            <div class="Footer-business-hours">
+              <div class="Footer-business-hours-heading">Hours</div>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1534646819748" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1534646054003_4089"><div class="sqs-block-content">
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-medium social-icons-shape-circle social-icons-style-knockout" >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://twitter.com/gitbetternow" target="_blank" class="sqs-svg-icon--wrapper twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/gitbetter/" target="_blank" class="sqs-svg-icon--wrapper facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/company/gitbetter/" target="_blank" class="sqs-svg-icon--wrapper linkedin">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div></div></div></div></div></div>
+
+      
+  <nav class="Footer-nav" data-content-field="navigation">
+
+    <div class="Footer-nav-group"><a href="/about-feed" class="Footer-nav-item">About</a><a href="/contact-feed" class="Footer-nav-item">Contact</a></div>
+
+  </nav>
+
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1534688527684" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/318/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none"><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="linkedin-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol></svg>
+
+  </body>
+</html>
