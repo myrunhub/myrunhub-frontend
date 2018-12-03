@@ -8,7 +8,6 @@ class Header extends React.Component {
     }
 
     handleClick() {
-        alert("Click me");
     }
 
     render( ) {
